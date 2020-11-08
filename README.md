@@ -1,5 +1,5 @@
 # TimerC
-A struct that can keep track of a counter (used for time managment) and a function callback to be called when the timer is over.
+A struct that can keep track of a counter (used for time managment) and a function callback, using function pointer, to be called when the timer is over.
 
 It can be used both with autoReset true or false, allowing looping events
 
